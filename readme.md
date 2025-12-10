@@ -9,3 +9,7 @@ This section was developed on the feature-new-section branch as part of the Git 
 ## Release 1.0.0
 
 This release includes the new README section developed using Git Flow.
+
+## Hotfix 1.0.1
+
+A small hotfix was applied to the project using the Git Flow hotfix branch.
